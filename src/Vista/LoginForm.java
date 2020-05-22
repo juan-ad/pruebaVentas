@@ -16,6 +16,7 @@ public class LoginForm extends javax.swing.JFrame {
         this.setLocationRelativeTo(null);
         usuario.setText("emp01");
         txtPass.setText("456");
+        System.out.println("Helo");
     }
 
    
